@@ -1,0 +1,12 @@
+#!/bin/bash
+set -v
+java MinimumTankSize 0.5
+java MinimumTankSize 0.5001
+java MinimumTankSize 3.5
+java MinimumTankSize 3.5001
+java MinimumTankSize 10
+java MinimumTankSize 15.4
+java MinimumTankSize 0.4
+java MinimumTankSize 0.1
+
+

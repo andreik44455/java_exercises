@@ -1,0 +1,4 @@
+#!/bin/bash
+set -v
+java SinTable 0 10 90
+

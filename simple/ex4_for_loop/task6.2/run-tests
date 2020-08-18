@@ -1,0 +1,4 @@
+#!/bin/bash
+set -v
+java MaxList 20 30 45 11 12 34 46 22
+java MaxList 100 23 454

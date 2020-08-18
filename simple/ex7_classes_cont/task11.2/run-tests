@@ -1,0 +1,25 @@
+#!/bin/bash
+set -v
+java ShapeShift <<END
+1
+0 0
+1
+2 2
+END
+
+java ShapeShift <<END
+2
+0 0
+10 0
+0 20
+5 10
+END
+
+
+java ShapeShift <<END
+3
+0 0
+10 20
+0 0
+END
+

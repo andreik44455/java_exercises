@@ -1,0 +1,4 @@
+#!/bin/bash
+set -v
+java DivideCake4 28 35 63 70
+

@@ -1,0 +1,3 @@
+#!/bin/bash
+set -v
+java Birthday Andrei Korovin 09/07/1998

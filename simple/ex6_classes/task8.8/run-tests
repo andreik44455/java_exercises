@@ -1,0 +1,4 @@
+#!/bin/bash
+set -v
+java CalendarHighlight 3 28 9
+

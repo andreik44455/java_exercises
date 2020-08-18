@@ -1,0 +1,7 @@
+#!/bin/bash
+set -v
+java AddQuadPoly 6 4 2 3 2 1
+java CompareQuadPoly 1 2 3 2 3 1
+java CompareQuadPoly 3 2 1 3 2 1
+java CompareQuadPoly 3 2 1 1 2 3
+

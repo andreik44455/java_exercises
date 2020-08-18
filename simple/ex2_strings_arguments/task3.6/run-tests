@@ -1,0 +1,3 @@
+#!/bin/bash
+set -v
+java FishTankMaterials 1 2 3
