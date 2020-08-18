@@ -1,1 +1,0 @@
-typeSearchIndex = [{"p":"<Unnamed>","l":"Account"},{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"Phone"},{"p":"<Unnamed>","l":"Student"},{"p":"<Unnamed>","l":"StudentsCalling"}]

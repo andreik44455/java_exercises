@@ -1,0 +1,5 @@
+#!/bin/bash
+set -v
+java StreetOrder input.txt output.txt
+java StreetOrder input2.txt output2.txt
+

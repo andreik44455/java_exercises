@@ -1,0 +1,34 @@
+=========================
+Task task18.6
+-------------------------
+java DeleteField 3 input.txt output2.txt
+Output file output2.txt already exists
+java DeleteField 3 input.txt
+Maple	leaves	black	in	the	courtyard
+Light	drives	and	one	bluejay	crams
+our	cold	out	past	the	sun
+each time your traces come past the shadows
+and visit under my looking-glass fingers
+that lift and block out the sun
+java DeleteField 3 - output3.txt
+Output file output3.txt already exists
+java DeleteField 3 input.txt -
+Maple	leaves	black	in	the	courtyard
+Light	drives	and	one	bluejay	crams
+our	cold	out	past	the	sun
+each time your traces come past the shadows
+and visit under my looking-glass fingers
+that lift and block out the sun
+
+
+=========================
+Task task18.7
+-------------------------
+java Uuencode file.txt output.txt
+file mode 600
+M,#`P,#`P,#`P,#`P,#`P,#`P,#`P,#`P,30U,#(S,3(Q-#4P,C@Y,C$T-3`R
+M,S$R,30U,#(S,3(V-#4U-C0V-3$T-3`R,S$R,30U,#(S-#$R,3(T,C@Y,C$T
+D-3`R,S$R-3,U,#(S-#$R,3(T,C@Y,C$T-3`R,S$R"@H*"@H*
+`
+end
+

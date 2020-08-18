@@ -1,0 +1,20 @@
+#!/bin/bash
+set -v
+java WordCount <<- EOF
+hhhh hhh sss
+  aa aa ww
+EOF
+java WordCount <<- EOF
+     
+   
+
+    
+EOF
+java WordCount <<- EOF
+   asdf
+    
+ss aa gg
+EOF
+
+
+

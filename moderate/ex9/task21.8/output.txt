@@ -1,0 +1,13 @@
+Rupert Rodgers, 4, M25 7QZ
+  Duplicate: 12:35 Manchester 099
+  First occurence: 07:37 Manchester 538
+Sarah Peacock, 6, M25 7QZ
+  Duplicate: 13:15 Manchester 539
+  First occurence: 10:25 Manchester 538
+Fatima, 3, M25 7QZ
+  Duplicate: 15:13 Manchester 111
+  First occurence: 10:01 Manchester 538
+Rupert Rodgers, 4, M25 7QZ
+  Duplicate: 15:27 Manchester 222
+  First occurence: 07:37 Manchester 538
+There were 4 duplicate votes

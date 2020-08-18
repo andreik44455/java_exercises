@@ -1,0 +1,12 @@
+          if (numberOfBytes == lineBytes.length) {
+            int[] biggerArray
+              = new int[lineBytes.length * ARRAY_RESIZE_FACTOR];
+            for (int arrayIndex = 0; arrayIndex < lineBytes.length; arrayIndex++)
+              biggerArray[arrayIndex] = lineBytes[arrayIndex];
+            lineBytes = biggerArray;
+          }// if
+
+  private static int numberOfBytes = 0;
+  private static final int INITIAL_ARRAY_SIZE = 100;
+  private static final int ARRAY_RESIZE_FACTOR = 2;
+  private static int[] lineBytes = new int[INITIAL_ARRAY_SIZE];  

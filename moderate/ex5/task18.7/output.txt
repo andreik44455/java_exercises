@@ -1,0 +1,6 @@
+begin 600 filsadt
+M,#`P,#`P,#`P,#`P,#`P,#`P,#`P,#`P,30U,#(S,3(Q-#4P,C@Y,C$T-3`R
+M,S$R,30U,#(S,3(V-#4U-C0V-3$T-3`R,S$R,30U,#(S-#$R,3(T,C@Y,C$T
+D-3`R,S$R-3,U,#(S-#$R,3(T,C@Y,C$T-3`R,S$R"@H*"@H*
+`
+end

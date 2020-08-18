@@ -1,0 +1,8 @@
+#!/bin/bash
+set -v
+java DeleteField 3 input.txt output4.txt
+java DeleteField 3 input.txt
+java DeleteField 3 - output5.txt
+java DeleteField 3 input.txt -
+
+
