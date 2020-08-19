@@ -1,1 +1,3 @@
 *.class
+moderate/**/*.html
+simple/**/*.html

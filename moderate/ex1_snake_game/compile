@@ -1,0 +1,2 @@
+#!/bin/bash
+javac -Xlint:deprecation -classpath Snake.jar:. Game.java

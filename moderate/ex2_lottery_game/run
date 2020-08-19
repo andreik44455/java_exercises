@@ -1,0 +1,2 @@
+#!/bin/bash
+java -classpath .:Lottery.jar LotteryTest$1.java

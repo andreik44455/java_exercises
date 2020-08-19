@@ -1,0 +1,9 @@
+#!/bin/bash
+set -v
+java ReverseLines <<- EOF
+hello
+hey
+how
+are
+you
+EOF
